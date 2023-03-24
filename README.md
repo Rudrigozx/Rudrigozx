@@ -3,7 +3,7 @@
 
 
 
-- 🌱 Eu estudo Ciências da Computação, com foco na programação e interesse em inteligência artificial
+- 🌱 Eu estudo Ciência da Computação, com foco na programação e interesse em inteligência artificial
 
 
 
